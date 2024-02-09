@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "title":"Burger",
+        "types":[
+            {
+                "id": 1,
+                "title":"Veg Burger",
+                "price":100,
+                "image":"https://hips.hearstapps.com/del.h-cdn.co/assets/17/22/640x959/gallery-1496166321-delish-veggie-burgers-pin-1-1024.jpg?resize=980:*"
+            },
+            {
+                "id": 2,
+                "title":"Cheese Burger",
+                "price":100,
+                "image":"https://bakeitwithlove.com/wp-content/uploads/2022/06/baked-cheeseburgers-sq.jpg"
+            },
+            {
+                "id": 3,
+                "title":"Chicken Burger",
+                "price":100,
+                "image":"https://cdn.pixabay.com/photo/2016/03/05/19/02/hamburger-1238246_960_720.jpg"
+            },
+            {
+                "id": 4,
+                "title":"Mushroom Burger",
+                "price":100,
+                "image":"https://hips.hearstapps.com/del.h-cdn.co/assets/17/22/640x959/gallery-1496166321-delish-veggie-burgers-pin-1-1024.jpg?resize=980:*"
+            },
+            {
+                "id": 5,
+                "title":"Falafel Burger",
+                "price":100,
+                "image":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/190328-falafel-burgers-306-1553899019.jpg?crop=1xw:1xh;center,top&resize=980:*"
+            },
+            {
+                "id": 6,
+                "title":"Egg Burger",
+                "price":100,
+                "image":"https://theheirloompantry.co/wp-content/uploads/2022/07/fried-egg-burger-the-heirloom-pantry-2.jpg"
+            }
+            
+        ]
+    },
+    {
+        "id": 2,
+        "title":"Pasta",
+        "types":[
+            {
+                "id": 1,
+                "title":"Red Sauce Pasta",
+                "price":100,
+                "image":"https://food.fnr.sndimg.com/content/dam/images/food/fullset/2014/4/8/2/FNM_050114-Classic-Red-Sauce-Recipe_s4x3.jpg.rend.hgtvcom.616.462.suffix/1397491331300.jpeg"
+            },
+            {
+                "id": 2,
+                "title":"White Sauce Pasta",
+                "price":100,
+                "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2021/02/white-sauce-pasta-500x500.jpg"
+            },
+            {
+                "id": 3,
+                "title":" Pink Pasta",
+                "price":100,
+                "image":"data:image/jpeg;base64,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"
+            },
+            {
+                "id": 4,
+                "title":"Spagheti Pasta",
+                "price":100,
+                "image":"https://www.indianhealthyrecipes.com/wp-content/uploads/2022/07/mushroom-spaghetti-recipe.jpg"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title":"Sandwich",
+        "types":[
+            {
+                "id": 1,
+                "title":"Veg Sandwich",
+                "price":100,
+                "image":"https://i.ytimg.com/vi/TWcBpbUrxic/maxresdefault.jpg"
+            },
+            {
+                "id": 2,
+                "title":"Cheese Sandwich",
+                "price":100,
+                "image":"https://natashaskitchen.com/wp-content/uploads/2021/08/Grilled-Cheese-Sandwich-SQ.jpg"
+            },
+            {
+                "id": 3,
+                "title":"Corn Sandwich",
+                "price":100,
+                "image":"https://static.toiimg.com/thumb/57853896.cms?imgsize=1542881&width=800&height=800"
+            },
+            {
+                "id": 4,
+                "title":"Chicken Sandwich",
+                "price":100,
+                "image":"https://theyummydelights.com/wp-content/uploads/2022/04/shredded-chicken-sandwich.jpg"
+            }
+        ]
+    }
+]
